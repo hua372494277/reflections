@@ -6,3 +6,6 @@ What are some situations when branches would be helpful in keeping your history 
 	
 How do the diagrams help you visualize the branch structure?
 	git log --graph --oneline master coins
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	the two branches are merged together. And all modifications are saved into master branch
