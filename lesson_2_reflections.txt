@@ -5,6 +5,7 @@ What are some situations when branches would be helpful in keeping your history 
 	Multi-developers working on a same project
 	
 How do the diagrams help you visualize the branch structure?
+<<<<<<< HEAD
 	git log --graph --oneline master coins
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
